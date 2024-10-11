@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=80BCBD&height=350&section=header&text=Hi!%20I%20am%20Kyumin%20Chang&fontSize=60&fontColor=F6F5F2&animation=fadeIn&fontAlignY=38&desc=welcome%20to%20my%20Git%20Repository!&descSize=30&descAlign=65&descAlignY=52" />
 </div>
 
-- 🖥️ Full-Stack Engineer
+- 🖥️ Backend Engineer
 - 😄 I am: `active`, `positive` and `curious`
 - 😎 Hobby: `watching movies` and `listening to music`
 
